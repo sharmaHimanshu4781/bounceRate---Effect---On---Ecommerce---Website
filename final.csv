@@ -1,0 +1,1127 @@
+"","Domain","Coefficient of desktop","Ticker","Category","Coefficient of mobile"
+"1","amazon.com",0.285612034020063,"G","General",-0.0390676802844829
+"2","walmart.com",0.285612034020063,"G","General",-0.0390676802844829
+"3","microsoft.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"4","homedepot.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"5","etsy.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"6","apple.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"7","target.com",0.285612034020063,"G","General",-0.0390676802844829
+"8","bestbuy.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"9","lowes.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"10","wayfair.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"11","kohls.com",0.285612034020063,"G","General",-0.0390676802844829
+"12","macys.com",0.285612034020063,"G","General",-0.0390676802844829
+"13","costco.com",0.285612034020063,"G","General",-0.0390676802844829
+"14","walgreens.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"15","cvs.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"16","play.google.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"17","gap.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"18","jcpenney.com",0.285612034020063,"G","General",-0.0390676802844829
+"19","nike.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"20","gamestop.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"21","harborfreight.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"22","groupon.com",0.285612034020063,"G","General",-0.0390676802844829
+"23","chewy.com",0.280052755471175,"PPR","Pet Products Retailer",-0.082401791876518
+"24","newegg.com",0.285612034020063,"G","General",-0.0390676802844829
+"25","bedbathandbeyond.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"26","ikea.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"27","qvc.com",0.285612034020063,"G","General",-0.0390676802844829
+"28","kroger.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"29","autozone.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"30","dickssportinggoods.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"31","overstock.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"32","dell.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"33","michaels.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"34","ulta.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"35","nordstrom.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"36","menards.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"37","fitbit.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"38","bhphotovideo.com",0.236486953844575,"PVER","Photo and Video Equipment Retailer",0.0902045879633316
+"39","sephora.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"40","hobbylobby.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"41","rei.com",0.294637484927008,"ORMR","Outdoor Recreation Merchandise Retailer",-0.0761515000295048
+"42","tractorsupply.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"43","shop.advanceautoparts.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"44","cabelas.com",0.294637484927008,"ORMR","Outdoor Recreation Merchandise Retailer",-0.0761515000295048
+"45","victoriassecret.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"46","staples.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"47","officedepot.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"48","shutterfly.com",0.236486953844575,"PVER","Photo and Video Equipment Retailer",0.0902045879633316
+"49","joann.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"50","petco.com",0.280052755471175,"PPR","Pet Products Retailer",-0.082401791876518
+"51","adidas.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"52","biglots.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"53","guitarcenter.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"54","oreillyauto.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"55","rockauto.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"56","publix.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"57","lenovo.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"58","sears.com",0.285612034020063,"G","General",-0.0390676802844829
+"59","midwayusa.com",0.294637484927008,"ORMR","Outdoor Recreation Merchandise Retailer",-0.0761515000295048
+"60","weightwatchers.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"61","palmettostatearmory.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"62","belk.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"63","teespring.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"64","dsw.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"65","sweetwater.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"66","carid.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"67","finishline.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"68","store.google.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"69","cheaperthandirt.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"70","hm.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"71","ae.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"72","summitracing.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"73","zazzle.com",0.236486953844575,"PVER","Photo and Video Equipment Retailer",0.0902045879633316
+"74","footlocker.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"75","scholastic.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"76","fashionnova.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"77","asos.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"78","fingerhut.com",0.285612034020063,"G","General",-0.0390676802844829
+"79","meijer.com",0.285612034020063,"G","General",-0.0390676802844829
+"80","vistaprint.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"81","hottopic.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"82","microcenter.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"83","opticsplanet.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"84","crutchfield.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"85","dollartree.com",0.285612034020063,"G","General",-0.0390676802844829
+"86","shopdisney.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"87","llbean.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"88","fanatics.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"89","dillards.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"90","bigbadtoystore.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"91","underarmour.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"92","budsgunshop.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"93","bjs.com",0.285612034020063,"G","General",-0.0390676802844829
+"94","grainger.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"95","forever21.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"96","zennioptical.com",0.222696763475896,"ESCR","Eyeglasses, Sunglasses and Contacts Retailer",-0.0253173884374698
+"97","adorama.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"98","brownells.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"99","urbanoutfitters.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"100","northerntool.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"101","campingworld.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"102","pamperedchef.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"103","williams-sonoma.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"104","ipsy.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"105","tirerack.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"106","classicfirearms.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"107","sallybeauty.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"108","partycity.com",0.276965851656105,"PPEMSR","Party Products and Event Management Services Retailer",-0.0550052532462363
+"109","landsend.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"110","musiciansfriend.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"111","thriftbooks.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"112","store.hp.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"113","hellofresh.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"114","uline.com",0.221099308566591,"PDS","Packaging And Distribution Services",0.0582242295880279
+"115","stitchfix.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"116","beachbody.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"117","childrensplace.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"118","gearbest.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"119","sportsmans.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"120","stamps.com",0.385756042024784,"MS","Mail Services",0.243016723154565
+"121","ruralking.com",0.285612034020063,"G","General",-0.0390676802844829
+"122","discounttire.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"123","jcrew.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"124","hy-vee.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"125","neimanmarcus.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"126","carters.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"127","pier1.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"128","onepeloton.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"129","christianbook.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"130","crateandbarrel.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"131","scentsy.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"132","uniqlo.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"133","frys.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"134","express.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"135","orientaltrading.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"136","napaonline.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"137","fragrancenet.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"138","shopmyexchange.com",0.285612034020063,"G","General",-0.0390676802844829
+"139","duluthtrading.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"140","famousfootwear.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"141","thredup.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"142","gnc.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"143","kirklands.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"144","brilliantearth.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"145","zara.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"146","shoprite.com",0.285612034020063,"G","General",-0.0390676802844829
+"147","primaryarms.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"148","grabagun.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"149","bladehq.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"150","mattressfirm.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"151","jmbullion.com",0.270648036021243,"MPR","Metal Products Retailer",0.000203420575279056
+"152","jegs.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"153","grove.co",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"154","roomstogo.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"155","bose.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"156","kay.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"157","vitaminshoppe.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"158","revzilla.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"159","lulus.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"160","hibbett.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"161","shop.lululemon.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"162","nflshop.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"163","containerstore.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"164","skechers.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"165","levi.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"166","fabfitfun.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"167","shoecarnival.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"168","davidsbridal.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"169","nyandcompany.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"170","jtv.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"171","columbia.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"172","thenorthface.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"173","crocs.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"174","harristeeter.com",0.285612034020063,"G","General",-0.0390676802844829
+"175","harley-davidson.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"176","pepboys.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"177","eddiebauer.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"178","kingarthurflour.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"179","big5sportinggoods.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"180","zumiez.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"181","newbalance.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"182","abercrombie.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"183","warbyparker.com",0.222696763475896,"ESCR","Eyeglasses, Sunglasses and Contacts Retailer",-0.0253173884374698
+"184","weathertech.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"185","boxycharm.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"186","therealreal.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"187","rockler.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"188","amway.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"189","bkstr.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"190","hallmark.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"191","apmex.com",0.270648036021243,"MPR","Metal Products Retailer",0.000203420575279056
+"192","1800flowers.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"193","elementvape.com",0.314429849654925,"CVPR","Cigarette & Vape Prodcuts Retailer",-0.0917763541059983
+"194","customink.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"195","backcountry.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"196","nutrisystem.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"197","touchofmodern.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"198","justfab.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"199","burlington.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"200","michaelkors.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"201","mybobs.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"202","patagonia.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"203","cdw.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"204","ereplacementparts.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"205","fender.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"206","farmandfleet.com",0.285612034020063,"G","General",-0.0390676802844829
+"207","clickbank.com",0.0443469738563769,"MEP","Marketing and E-commerce Platform",0.147915596560952
+"208","thrivemarket.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"209","repairclinic.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"210","lampsplus.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"211","musicnotes.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"212","iherb.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"213","coach.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"214","anntaylor.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"215","jomashop.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"216","supremenewyork.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"217","revolve.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"218","ralphlauren.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"219","zola.com",0.276965851656105,"PPEMSR","Party Products and Event Management Services Retailer",-0.0550052532462363
+"220","pacsun.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"221","cafepress.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"222","lumberliquidators.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"223","americanmuscle.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"224","dyson.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"225","zzounds.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"226","rkguns.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"227","yandy.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"228","scheels.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"229","dickblick.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"230","vizio.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"231","menswearhouse.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"232","digikey.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"233","store.nba.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"234","nfm.com",0.285612034020063,"G","General",-0.0390676802844829
+"235","realtruck.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"236","fineartamerica.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"237","swansonvitamins.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"238","flooranddecor.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"239","keurig.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"240","dollarshaveclub.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"241","traegergrills.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"242","chicos.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"243","partselect.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"244","talbots.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"245","lifeway.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"246","homechef.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"247","sleepnumber.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"248","monoprice.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"249","carhartt.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"250","lakeside.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"251","cigarsinternational.com",0.314429849654925,"CVPR","Cigarette & Vape Prodcuts Retailer",-0.0917763541059983
+"252","avery.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"253","build.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"254","omahasteaks.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"255","1800petmeds.com",0.280052755471175,"PPR","Pet Products Retailer",-0.082401791876518
+"256","lightinthebox.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"257","adoreme.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"258","jpcycles.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"259","sonos.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"260","appliancepartspros.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"261","ecstuning.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"262","glassesusa.com",0.222696763475896,"ESCR","Eyeglasses, Sunglasses and Contacts Retailer",-0.0253173884374698
+"263","tacklewarehouse.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"264","smiledirectclub.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"265","beallsflorida.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"266","verabradley.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"267","entertainmentearth.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"268","jwpepper.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"269","ugg.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"270","fossil.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"271","woodcraft.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"272","lids.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"273","yeti.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"274","spreadshirt.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"275","trekbikes.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"276","dollskill.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"277","la-z-boy.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"278","romwe.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"279","boscovs.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"280","bootbarn.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"281","flightclub.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"282","replacements.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"283","tillys.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"284","mouser.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"285","toysrus.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"286","aliengearholsters.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"287","surlatable.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"288","kitchenaid.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"289","grasscity.com",0.314429849654925,"CVPR","Cigarette & Vape Prodcuts Retailer",-0.0917763541059983
+"290","tiffany.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"291","jimmyjazz.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"292","casper.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"293","uncommongoods.com",0.285612034020063,"G","General",-0.0390676802844829
+"294","mypillow.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"295","westmarine.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"296","usa.philips.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"297","colehaan.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"298","chanel.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"299","ssense.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"300","ftd.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"301","evo.com",0.285612034020063,"G","General",-0.0390676802844829
+"302","bluenile.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"303","pampers.com",0.285891673294507,"BPR","Baby Products Retailers",0.0200993755115346
+"304","americanmusical.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"305","blueapron.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"306","globalindustrial.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"307","rainbowshops.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"308","ashleystewart.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"309","mlbshop.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"310","orvis.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"311","raymourflanigan.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"312","511tactical.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"313","speedwaymotors.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"314","livingspaces.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"315","nordictrack.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"316","nespresso.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"317","rue21.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"318","valuecityfurniture.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"319","burpee.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"320","barkbox.com",0.280052755471175,"PPR","Pet Products Retailer",-0.082401791876518
+"321","knifecenter.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"322","bissell.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"323","aeropostale.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"324","coolstuffinc.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"325","targetsportsusa.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"326","forhims.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"327","ray-ban.com",0.222696763475896,"ESCR","Eyeglasses, Sunglasses and Contacts Retailer",-0.0253173884374698
+"328","brooksrunning.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"329","govx.com",0.294637484927008,"ORMR","Outdoor Recreation Merchandise Retailer",-0.0761515000295048
+"330","asics.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"331","luckygunner.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"332","clarksusa.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"333","everlane.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"334","fromyouflowers.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"335","net-a-porter.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"336","christopherandbanks.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"337","spencersonline.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"338","otterbox.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"339","wine.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"340","sheetmusicplus.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"341","amainhobbies.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"342","ediblearrangements.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"343","catofashions.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"344","traxxas.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"345","tennis-warehouse.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"346","jjill.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"347","truevalue.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"348","collectionsetc.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"349","sonicelectronix.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"350","steinmart.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"351","nectarsleep.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"352","pcrichard.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"353","hanes.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"354","peapod.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"355","zagg.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"356","ajmadison.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"357","thirdlove.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"358","shop.usa.canon.com",0.236486953844575,"PVER","Photo and Video Equipment Retailer",0.0902045879633316
+"359","morphe.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"360","mscdirect.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"361","buckle.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"362","parts-express.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"363","gardeners.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"364","1800contacts.com",0.222696763475896,"ESCR","Eyeglasses, Sunglasses and Contacts Retailer",-0.0253173884374698
+"365","puritan.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"366","toryburch.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"367","abt.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"368","fast-growing-trees.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"369","avon.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"370","nuts.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"371","brooksbrothers.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"372","crucial.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"373","jeffreestarcosmetics.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"374","lorealparisusa.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"375","barenecessities.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"376","ruelala.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"377","motosport.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"378","art.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"379","steelseries.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"380","beautylish.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"381","elfcosmetics.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"382","vivino.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"383","ultrasabers.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"384","bespokepost.com",0.285612034020063,"G","General",-0.0390676802844829
+"385","nikonusa.com",0.236486953844575,"PVER","Photo and Video Equipment Retailer",0.0902045879633316
+"386","jetpens.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"387","bombas.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"388","harrys.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"389","tartecosmetics.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"390","domyown.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"391","gruntstyle.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"392","uniformadvantage.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"393","endclothing.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"394","weber.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"395","freshdirect.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"396","1000bulbs.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"397","tacticalgear.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"398","minted.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"399","hasbropulse.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"400","merchbar.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"401","firemountaingems.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"402","shop.wwe.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"403","americangirl.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"404","directvapor.com",0.314429849654925,"CVPR","Cigarette & Vape Prodcuts Retailer",-0.0917763541059983
+"405","meundies.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"406","nastygal.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"407","grizzly.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"408","lapolicegear.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"409","selectblinds.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"410","aldoshoes.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"411","natchezss.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"412","rackroomshoes.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"413","sgammo.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"414","luckybrand.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"415","acmetools.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"416","swimoutlet.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"417","factoryoutletstore.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"418","glossier.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"419","c21stores.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"420","stewmac.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"421","fye.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"422","shop.nhl.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"423","rcwilley.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"424","boxed.com",0.285612034020063,"G","General",-0.0390676802844829
+"425","bikebandit.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"426","joesnewbalanceoutlet.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"427","paulaschoice.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"428","stevemadden.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"429","alibris.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"430","jackssmallengines.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"431","klipsch.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"432","aimsurplus.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"433","searsoutlet.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"434","bulkreefsupply.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"435","brandsmartusa.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"436","catalog.usmint.gov",0.270648036021243,"MPR","Metal Products Retailer",0.000203420575279056
+"437","avenue.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"438","vapordna.com",0.314429849654925,"CVPR","Cigarette & Vape Prodcuts Retailer",-0.0917763541059983
+"439","halloweencostumes.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"440","appliancesconnection.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"441","superbrightleds.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"442","juul.com",0.314429849654925,"CVPR","Cigarette & Vape Prodcuts Retailer",-0.0917763541059983
+"443","rockbottomgolf.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"444","sparkfun.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"445","furniturerow.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"446","esalon.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"447","ssactivewear.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"448","windsorstore.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"449","dooney.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"450","rugsusa.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"451","kendrascott.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"452","dtlr.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"453","tempurpedic.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"454","popsockets.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"455","allbirds.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"456","vermontcountrystore.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"457","jabra.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"458","birchbox.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"459","livingsocial.com",0.285612034020063,"G","General",-0.0390676802844829
+"460","mavistire.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"461","jockey.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"462","pricechopper.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"463","article.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"464","radpowerbikes.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"465","toms.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"466","renttherunway.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"467","restorationhardware.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"468","runningwarehouse.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"469","jerrysartarama.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"470","fullbeauty.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"471","autoaccessoriesgarage.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"472","threadless.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"473","roadrunnersports.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"474","6dollarshirts.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"475","bodycandy.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"476","softsurroundings.com",0.285612034020063,"G","General",-0.0390676802844829
+"477","towerhobbies.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"478","hermanmiller.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"479","keenfootwear.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"480","keh.com",0.236486953844575,"PVER","Photo and Video Equipment Retailer",0.0902045879633316
+"481","signaturehardware.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"482","sdbullion.com",0.270648036021243,"MPR","Metal Products Retailer",0.000203420575279056
+"483","lorextechnology.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"484","burberry.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"485","turners.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"486","rothys.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"487","kiwico.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"488","esalerugs.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"489","shoeshowmega.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"490","anker.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"491","the-house.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"492","eaze.com",0.314429849654925,"CVPR","Cigarette & Vape Prodcuts Retailer",-0.0917763541059983
+"493","soccer.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"494","samash.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"495","claires.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"496","lootcrate.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"497","esteelauder.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"498","thegreatcourses.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"499","nakedwines.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"500","tactics.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"501","benchmade.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"502","autopartswarehouse.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"503","ross-simons.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"504","shop.lego.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"505","vitamix.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"506","alexandani.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"507","tackledirect.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"508","hammacher.com",0.285612034020063,"G","General",-0.0390676802844829
+"509","unique-vintage.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"510","bungiestore.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"511","pgatoursuperstore.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"512","skullcandy.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"513","neutrogena.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"514","monrovia.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"515","charbroil.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"516","cduniverse.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"517","gamefly.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"518","bodenusa.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"519","thetileapp.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"520","greenchef.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"521","puravidabracelets.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"522","spanx.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"523","ericdress.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"524","bulkapothecary.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"525","stacksocial.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"526","sharperimage.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"527","lovesac.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"528","tirebuyer.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"529","thereformation.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"530","turtlebeach.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"531","aritzia.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"532","propertyroom.com",0.285612034020063,"G","General",-0.0390676802844829
+"533","eloquii.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"534","dbrand.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"535","sunbasket.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"536","cavenders.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"537","musicgoround.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"538","fishusa.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"539","belkin.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"540","globalgolf.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"541","untilgone.com",0.285612034020063,"G","General",-0.0390676802844829
+"542","newark.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"543","thecompanystore.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"544","hannaandersson.com",0.285891673294507,"BPR","Baby Products Retailers",0.0200993755115346
+"545","lacoste.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"546","francescas.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"547","getfpv.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"548","brighton.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"549","4wd.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"550","bareminerals.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"551","shoesforcrews.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"552","woodlanddirect.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"553","colemanfurniture.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"554","rushordertees.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"555","zgallerie.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"556","honest.com",0.285891673294507,"BPR","Baby Products Retailers",0.0200993755115346
+"557","powells.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"558","dailyburn.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"559","leatherman.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"560","roomandboard.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"561","saberforge.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"562","scrubsandbeyond.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"563","flexshopper.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"564","solidsignal.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"565","tuftandneedle.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"566","touchofclass.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"567","purchasingpower.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"568","shoemall.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"569","cellularoutfitter.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"570","en-us.sennheiser.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"571","alphabroder.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"572","fullsource.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"573","jamesavery.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"574","radioshack.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"575","yamibuy.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"576","fragrantjewels.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"577","casetify.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"578","myvaporstore.com",0.314429849654925,"CVPR","Cigarette & Vape Prodcuts Retailer",-0.0917763541059983
+"579","betterworldbooks.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"580","gaiam.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"581","bassettfurniture.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"582","discountdance.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"583","doitbest.com",0.285612034020063,"G","General",-0.0390676802844829
+"584","lesliespool.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"585","herroom.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"586","vapewild.com",0.314429849654925,"CVPR","Cigarette & Vape Prodcuts Retailer",-0.0917763541059983
+"587","awaytravel.com",0.264681863663186,"BSR","Bags and Suitcases Retailer",0.0806213519123359
+"588","lancasterarchery.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"589","drjays.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"590","fullcompass.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"591","crownandcaliber.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"592","allsaints.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"593","citizenwatch.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"594","lakeshorelearning.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"595","providentmetals.com",0.270648036021243,"MPR","Metal Products Retailer",0.000203420575279056
+"596","longislandwatch.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"597","campsaver.com",0.294637484927008,"ORMR","Outdoor Recreation Merchandise Retailer",-0.0761515000295048
+"598","klwines.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"599","ninewest.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"600","eero.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"601","canadiantire.ca",0.285612034020063,"G","General",-0.0390676802844829
+"602","cpooutlets.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"603","smartpakequine.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"604","partstree.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"605","cottonon.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"606","officesupply.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"607","onlinelabels.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"608","builddirect.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"609","sundancecatalog.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"610","andersenwindows.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"611","brooklinen.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"612","performancebike.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"613","discountfilters.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"614","kyliecosmetics.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"615","us-mattress.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"616","timex.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"617","1sale.com",0.285612034020063,"G","General",-0.0390676802844829
+"618","leevalley.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"619","shop.guess.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"620","americanstandard-us.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"621","bhcosmetics.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"622","agrisupply.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"623","textbooks.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"624","brambleberry.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"625","bosch-home.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"626","tileshop.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"627","betabrand.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"628","tanga.com",0.285612034020063,"G","General",-0.0390676802844829
+"629","pureformulas.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"630","matterhackers.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"631","infowarsstore.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"632","shethinx.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"633","deepdiscount.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"634","lehmans.com",0.285612034020063,"G","General",-0.0390676802844829
+"635","thingsremembered.com",0.285612034020063,"G","General",-0.0390676802844829
+"636","zavvi.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"637","michiganbulb.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"638","origamiowl.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"639","thefryecompany.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"640","alliedelec.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"641","airsoftgi.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"642","americansignaturefurniture.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"643","mvmtwatches.com",0.285612034020063,"G","General",-0.0390676802844829
+"644","eshakti.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"645","discountramps.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"646","calendars.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"647","cutleryandmore.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"648","joybird.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"649","buydig.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"650","store.irobot.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"651","burton.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"652","swisscolony.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"653","ethanallen.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"654","uscutter.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"655","swap.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"656","marineengine.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"657","doversaddlery.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"658","shop.safeway.com",0.285612034020063,"G","General",-0.0390676802844829
+"659","untuckit.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"660","bobswatches.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"661","corelle.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"662","plumbingsupply.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"663","cutco.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"664","billabong.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"665","topshop.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"666","amerimark.com",0.285612034020063,"G","General",-0.0390676802844829
+"667","amiclubwear.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"668","soundstrue.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"669","kultofathena.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"670","wbmason.com",0.285612034020063,"G","General",-0.0390676802844829
+"671","signs.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"672","kuiu.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"673","godiva.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"674","blackanddecker.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"675","bostonproper.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"676","jefferspet.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"677","ecampus.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"678","pcliquidations.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"679","overtons.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"680","hubblecontacts.com",0.222696763475896,"ESCR","Eyeglasses, Sunglasses and Contacts Retailer",-0.0253173884374698
+"681","lexmark.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"682","audio-technica.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"683","bellacor.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"684","diamondnexus.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"685","buyautoparts.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"686","jcp.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"687","stage.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"688","motionrc.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"689","smokecartel.com",0.314429849654925,"CVPR","Cigarette & Vape Prodcuts Retailer",-0.0917763541059983
+"690","blackdiamondequipment.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"691","prada.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"692","charlotterusse.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"693","modaoperandi.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"694","jgsales.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"695","goldsilver.com",0.270648036021243,"MPR","Metal Products Retailer",0.000203420575279056
+"696","whiteflowerfarm.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"697","foodsaver.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"698","lovelyskin.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"699","denon.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"700","balsamhill.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"701","autonomous.ai",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"702","canadagoose.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"703","prepsportswear.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"704","yaleappliance.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"705","barcodesinc.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"706","tomford.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"707","jewlr.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"708","supply.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"709","shindigz.com",0.276965851656105,"PPEMSR","Party Products and Event Management Services Retailer",-0.0550052532462363
+"710","sanrio.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"711","shinesty.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"712","shop.com",0.285612034020063,"G","General",-0.0390676802844829
+"713","cabinetparts.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"714","shi.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"715","fatbraintoys.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"716","sylvane.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"717","titlenine.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"718","paulfredrick.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"719","boats.net",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"720","outdoorresearch.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"721","factoryauthorizedoutlet.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"722","acwholesalers.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"723","artvan.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"724","mancrates.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"725","purplecarrot.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"726","indochino.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"727","angara.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"728","kennethcole.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"729","everythingkitchens.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"730","discountbodyparts.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"731","blackforestdecor.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"732","connection.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"733","bodyartforms.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"734","leesa.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"735","buildasign.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"736","chicagomusicexchange.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"737","vipoutlet.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"738","hoover.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"739","shop.panasonic.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"740","ctshirts.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"741","theclymb.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"742","bollandbranch.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"743","luisaviaroma.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"744","armaniexchange.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"745","jacksonandperkins.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"746","troybilt.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"747","turntablelab.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"748","eileenfisher.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"749","vintageking.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"750","dungarees.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"751","cosstores.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"752","helixsleep.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"753","elitefts.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"754","promgirl.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"755","oxo.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"756","skis.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"757","aquasana.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"758","furniture.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"759","fergusonshowrooms.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"760","gymboree.com",0.285891673294507,"BPR","Baby Products Retailers",0.0200993755115346
+"761","bebe.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"762","thewatchbox.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"763","gerbergear.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"764","rag-bone.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"765","rugs-direct.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"766","focuscamera.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"767","buggiesunlimited.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"768","americanfloormats.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"769","freshwatersystems.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"770","lifetime.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"771","shopjimmy.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"772","mileskimball.com",0.285612034020063,"G","General",-0.0390676802844829
+"773","ashford.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"774","tomtop.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"775","healingcrystals.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"776","ties.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"777","painfulpleasures.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"778","skinit.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"779","shop.samsonite.com",0.264681863663186,"BSR","Bags and Suitcases Retailer",0.0806213519123359
+"780","serta.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"781","parachutehome.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"782","petflow.com",0.280052755471175,"PPR","Pet Products Retailer",-0.082401791876518
+"783","needsupply.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"784","wholelattelove.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"785","hickoryfarms.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"786","schiit.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"787","diesel.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"788","ultimateears.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"789","johnsonfitness.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"790","greenhousemegastore.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"791","suitsupply.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"792","propercloth.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"793","smartwool.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"794","qalo.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"795","dia.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"796","plantronics.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"797","us-appliance.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"798","13deals.com",0.285612034020063,"G","General",-0.0390676802844829
+"799","elderly.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"800","opgi.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"801","bcbg.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"802","sierratradingpost.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"803","shinola.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"804","sharkrobot.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"805","chapters.indigo.ca",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"806","tobi.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"807","jameco.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"808","ghostbed.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"809","timbuk2.com",0.264681863663186,"BSR","Bags and Suitcases Retailer",0.0806213519123359
+"810","ylighting.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"811","qualitylogoproducts.com",0.285612034020063,"G","General",-0.0390676802844829
+"812","harmankardon.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"813","lunacycle.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"814","sportbiketrackgear.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"815","stevespanglerscience.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"816","payless.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"817","montblanc.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"818","skagen.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"819","gourmetgiftbaskets.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"820","jansport.com",0.264681863663186,"BSR","Bags and Suitcases Retailer",0.0806213519123359
+"821","nomnomnow.com",0.280052755471175,"PPR","Pet Products Retailer",-0.082401791876518
+"822","provantage.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"823","northshorecare.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"824","robotshop.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"825","fathead.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"826","autoplicity.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"827","oster.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"828","explodingkittens.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"829","harvestright.com",0.285612034020063,"G","General",-0.0390676802844829
+"830","hipsandcurves.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"831","relaxtheback.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"832","overnightprints.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"833","shoplet.com",0.285612034020063,"G","General",-0.0390676802844829
+"834","solesociety.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"835","chefknivestogo.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"836","uspoloassn.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"837","papyrusonline.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"838","cookieskids.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"839","gemselect.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"840","toolup.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"841","samys.com",0.236486953844575,"PVER","Photo and Video Equipment Retailer",0.0902045879633316
+"842","evacuumstore.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"843","brandless.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"844","cabinets.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"845","delmarfans.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"846","zmodo.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"847","bulbs.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"848","nixon.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"849","tooltopia.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"850","perryellis.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"851","thehardwarehut.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"852","kraftmusic.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"853","shop.cricut.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"854","uscargocontrol.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"855","omega.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"856","gardensalive.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"857","baublebar.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"858","golfballs.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"859","oneill.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"860","saatvamattress.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"861","redwingheritage.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"862","schooloutfitters.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"863","liverpool.com.mx",0.285612034020063,"G","General",-0.0390676802844829
+"864","tombihn.com",0.264681863663186,"BSR","Bags and Suitcases Retailer",0.0806213519123359
+"865","prodirectsoccer.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"866","palmbeachjewelry.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"867","ross-tech.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"868","plantdelights.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"869","viralstyle.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"870","winechateau.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"871","rubbermaid.com",0.285612034020063,"G","General",-0.0390676802844829
+"872","jaybirdsport.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"873","winelibrary.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"874","varidesk.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"875","rebeccaminkoff.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"876","pharmapacks.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"877","accessories4less.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"878","luxedecor.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"879","coolibar.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"880","kaiusaltd.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"881","btosports.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"882","americanapparel.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"883","levenger.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"884","smarthome.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"885","nationalbusinessfurniture.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"886","store.cyberweld.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"887","danscomp.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"888","karmaloop.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"889","aircompressorsdirect.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"890","vintagetub.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"891","thebay.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"892","heirloomroses.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"893","wineenthusiast.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"894","charlesandcolvard.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"895","mmlafleur.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"896","footsmart.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"897","christmascentral.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"898","humankinetics.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"899","4inkjets.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"900","tortugabackpacks.com",0.264681863663186,"BSR","Bags and Suitcases Retailer",0.0806213519123359
+"901","mgemi.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"902","poppin.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"903","jdsports.co.uk",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"904","acnestudios.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"905","knoll.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"906","hbx.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"907","evine.com",0.285612034020063,"G","General",-0.0390676802844829
+"908","textbookrush.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"909","cymax.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"910","store.snapon.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"911","vapes.com",0.314429849654925,"CVPR","Cigarette & Vape Prodcuts Retailer",-0.0917763541059983
+"912","tipsyelves.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"913","kellycodetectors.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"914","dog.com",0.280052755471175,"PPR","Pet Products Retailer",-0.082401791876518
+"915","sofamania.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"916","kpoptown.com",0.285612034020063,"G","General",-0.0390676802844829
+"917","onkyousa.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"918","cookiesbydesign.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"919","saddlebackleather.com",0.264681863663186,"BSR","Bags and Suitcases Retailer",0.0806213519123359
+"920","shoptiques.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"921","charmingcharlie.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"922","shop.hodinkee.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"923","gifttree.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"924","teacollection.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"925","destinationxl.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"926","aclens.com",0.222696763475896,"ESCR","Eyeglasses, Sunglasses and Contacts Retailer",-0.0253173884374698
+"927","agentprovocateur.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"928","govbergwatches.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"929","crashplan.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"930","joyus.com",0.285612034020063,"G","General",-0.0390676802844829
+"931","brookstone.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"932","saxxunderwear.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"933","peruvianconnection.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"934","rugstudio.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"935","aedsuperstore.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"936","blissworld.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"937","vminnovations.com",0.285612034020063,"G","General",-0.0390676802844829
+"938","healthydirections.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"939","workingperson.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"940","shop.gopro.com",0.236486953844575,"PVER","Photo and Video Equipment Retailer",0.0902045879633316
+"941","roots.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"942","ritani.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"943","antonline.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"944","pssl.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"945","plushbeds.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"946","mec.ca",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"947","linentablecloth.com",0.276965851656105,"PPEMSR","Party Products and Event Management Services Retailer",-0.0550052532462363
+"948","bulbamerica.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"949","1800gunsandammo.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"950","webeyecare.com",0.222696763475896,"ESCR","Eyeglasses, Sunglasses and Contacts Retailer",-0.0253173884374698
+"951","brentwoodhome.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"952","batesfootwear.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"953","allparts.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"954","letote.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"955","nautilus.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"956","blacklapel.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"957","mantelsdirect.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"958","beachcamera.com",0.285612034020063,"G","General",-0.0390676802844829
+"959","dafiti.com.br",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"960","bluefly.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"961","gemvara.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"962","lulzbot.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"963","printingforless.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"964","kikocosmetics.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"965","smartsign.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"966","calvinklein.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"967","sdwheel.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"968","parts.andersenwindows.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"969","unbeatablesale.com",0.285612034020063,"G","General",-0.0390676802844829
+"970","primestyle.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"971","princessauto.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"972","techforless.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"973","londondrugs.com",0.285612034020063,"G","General",-0.0390676802844829
+"974","store.schoolspecialty.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"975","rebelcircus.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"976","ullapopken.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"977","naturebox.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"978","jjbuckley.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"979","mint.ca",0.270648036021243,"MPR","Metal Products Retailer",0.000203420575279056
+"980","soriana.com",0.285612034020063,"G","General",-0.0390676802844829
+"981","thesource.ca",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"982","buycostumes.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"983","shop.nationalgeographic.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"984","dvf.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"985","vermontteddybear.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"986","bizchair.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"987","faucetdepot.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"988","elektra.com.mx",0.285612034020063,"G","General",-0.0390676802844829
+"989","surfboard.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"990","us.humankinetics.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"991","myotcstore.com",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"992","tsc.ca",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"993","emusic.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"994","well.ca",0.325612034020063,"HSPPR","Health Services and Pharamceutical Products Retailers",-0.014067680284483
+"995","reddressboutique.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"996","shop.concept2.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"997","dailylook.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"998","hhgregg.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"999","bhfo.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1000","furla.com",0.264681863663186,"BSR","Bags and Suitcases Retailer",0.0806213519123359
+"1001","foryourlegs.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1002","bigceramicstore.com",0.251099308566591,"ACFR","Arts, Crafts and Fabric Retailers",-0.0192757704119721
+"1003","efaucets.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"1004","heartratemonitorsusa.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1005","bisonoffice.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"1006","windupwatchshop.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1007","elpalaciodehierro.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1008","lafayette148ny.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1009","shop.xerox.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"1010","simons.ca",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1011","agacistore.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1012","skymall.com",0.285612034020063,"G","General",-0.0390676802844829
+"1013","paintball-online.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"1014","treehut.co",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1015","potpourrigift.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1016","shoeshow.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1017","austinbazaar.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"1018","shop.surfboard.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1019","dynamiteclothing.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1020","cardsdirect.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"1021","essential.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"1022","barneys.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1023","diamondcandles.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1024","destinationmaternity.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1025","waterfilters.net",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"1026","officeworld.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"1027","store.discovery.com",0.285612034020063,"G","General",-0.0390676802844829
+"1028","creekstonefarms.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"1029","softchoice.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1030","jhilburn.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1031","trinaturk.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1032","loblaws.ca",0.285612034020063,"G","General",-0.0390676802844829
+"1033","surfstitch.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1034","beckertime.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1035","cmp.callawaygolf.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"1036","bookbyte.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"1037","jackthreads.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1038","sportique.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"1039","claroshop.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1040","shop.1sale.com",0.285612034020063,"G","General",-0.0390676802844829
+"1041","printm3d.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"1042","graze.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"1043","beautyencounter.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"1044","moviemars.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"1045","monkeysports.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"1046","compacc.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"1047","onlinestores.com",0.285612034020063,"G","General",-0.0390676802844829
+"1048","reitmans.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1049","superbiiz.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1050","bonton.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1051","bn.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"1052","directron.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1053","famsa.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1054","store.printm3d.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"1055","ruvilla.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1056","shopperschoice.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"1057","swellbottle.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"1058","mygoods.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1059","beyondtherack.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1060","shopladder.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1061","teamexpress.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"1062","sportsmanswarehouse.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"1063","burton.co.uk",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1064","brevilleusa.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"1065","42photo.com",0.236486953844575,"PVER","Photo and Video Equipment Retailer",0.0902045879633316
+"1066","fosmon.com",0.285612034020063,"G","General",-0.0390676802844829
+"1067","icetrends.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1068","store.gearpatrol.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"1069","bouclair.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"1070","chefsplate.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"1071","buyonlinenow.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"1072","munchery.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"1073","shopworldkitchen.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"1074","techrabbit.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1075","onpurple.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1076","eforcity.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1077","onecall.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1078","spud.ca",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
+"1079","store.onkyousa.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"1080","marti.mx",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"1081","discoverystore.com",0.285612034020063,"G","General",-0.0390676802844829
+"1082","gearhead.com",0.295540030017703,"AAR","Autoparts and Automobile Retailer",-0.085109882004007
+"1083","benq.us",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1084","databazaar.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"1085","rickis.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1086","herimports.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"1087","lollywollydoodle.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1088","heels.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1089","ec-club.panasonic.jp",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1090","hasbrotoyshop.com",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"1091","fashionmia.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1092","theshoppingchannel.com",0.285612034020063,"G","General",-0.0390676802844829
+"1093","instawares.com",0.299086583113118,"KTER","Kitchen tools and Equipments Retailer",0.0230161394605389
+"1094","uniquevintage.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1095","mellanni.com",0.281758216384021,"HICPR","Home Improvement and Cleaning Products Retailer",-0.00313010732272967
+"1096","sfplanet.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"1097","ice.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1098","thecubicle.us",0.264050581111938,"GTR","Gifts and Toys Retailer",-0.0262549613992231
+"1099","store.americanapparel.net",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1100","47stphoto.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1101","stopzilla.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1102","pcconnection.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1103","improvementscatalog.com",0.39849130256305,"GPR","Gardening Products Retailer",-0.0120890729912582
+"1104","dexclusive.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1105","webyshops.com",0.285612034020063,"G","General",-0.0390676802844829
+"1106","traetelo.com",0.285612034020063,"G","General",-0.0390676802844829
+"1107","essentialhardware.com",0.312624759473536,"WITER","Weapons, Industrial Tools and Equipment Retailer",-0.0588595901569939
+"1108","yugster.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1109","shopandroid.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1110","123stores.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1111","blucoil.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1112","shop.turtlebeach.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1113","shop.gonoodle.com",0.250999679298048,"MEEPR","Media, Education and Entertainment Products Retailer",0.0443710600653228
+"1114","uniquesquared.com",0.285612034020063,"G","General",-0.0390676802844829
+"1115","shoesofprey.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1116","bargainstation.com",0.314609859660826,"ETR","Electronics and Technology Retailer",0.0695791501928119
+"1117","shop.wornandwound.com",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1118","v2.com",0.312768767478256,"MPSR","Music Products and Services Retailer",0.0402040042693053
+"1119","ospreypacks.com",0.271586583113118,"FSPSR","Fitness & Sports Products and Services Retailer",0.0205161394605388
+"1120","pgshop.com",0.256722214382841,"PCBPR","Personal Care and Beauty Products Retailer",-0.0624012081824917
+"1121","ibuyofficesupply.com",0.310304769479437,"OSSR","Office and Stationary Supplies Retailer",0.107495914141816
+"1122","babyhaven.com",0.285891673294507,"BPR","Baby Products Retailers",0.0200993755115346
+"1123","ourpamperedhome.com",0.285612034020063,"G","General",-0.0390676802844829
+"1124","shop.americangreetings.com",0.28749750493881,"PLPR","Printing and Labels Products Retailer",0.175517890542618
+"1125","brantano.com.mx",0.228842945839854,"CSJWAR","Clothing, Shoes, Jewelery, Watch and Accessories Retailer",-0.0293798154757166
+"1126","store.creekstonefarms.com",0.279086583113118,"FBGR","Foods,Beverages and Groceries Retailer",-0.00198386053946115
